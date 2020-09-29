@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461
-
 //The new classes work as per expected. 
 //Under the main method of the Test class, each object uses the relevant input values to create an instance of itself.
 //For example, the Client object uses client details to create an instance called "client".
