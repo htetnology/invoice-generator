@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461
-
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
