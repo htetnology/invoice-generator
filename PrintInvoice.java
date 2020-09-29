@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461
-
 import java.io.PrintWriter;
 import java.time.LocalDate;
 
